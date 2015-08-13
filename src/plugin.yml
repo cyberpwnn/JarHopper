@@ -1,0 +1,7 @@
+main: com.ulticraft.jarhopper.JarHopper
+name: JarHopper
+version: 1.0
+commands:
+  jarhop:
+    aliases: jh
+    description: Transfers Jars into plugin directory
